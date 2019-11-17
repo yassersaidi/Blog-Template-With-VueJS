@@ -1,0 +1,13 @@
+@import 'helper/variables';
+body{
+    background:#EEE;
+    font-family: Tahoma;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+}
+.b-back{
+    background:$white-back-color;
+    color:$black-text-color
+}

@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "user_id": 70,
+      "post_title": "HEC-HMS",
+      "post_created_at": "2/17/2019",
+      "post_updated_at": "10/5/2019",
+      "post_text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "post_views": 9510,
+      "post_auther": "gearpe0",
+      "post_category": "nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit"
+    },
+    {
+      "id": 2,
+      "user_id": 43,
+      "post_title": "Carrier Ethernet",
+      "post_created_at": "7/17/2019",
+      "post_updated_at": "1/12/2019",
+      "post_text": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+      "post_views": 7289,
+      "post_auther": "acrowden1",
+      "post_category": "quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis"
+    },
+    {
+      "id": 3,
+      "user_id": 76,
+      "post_title": "Award Winner",
+      "post_created_at": "2/6/2019",
+      "post_updated_at": "9/15/2019",
+      "post_text": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+      "post_views": 3170,
+      "post_auther": "mtreasure2",
+      "post_category": "nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta"
+    },
+    {
+      "id": 4,
+      "user_id": 27,
+      "post_title": "Minority Owned",
+      "post_created_at": "4/18/2019",
+      "post_updated_at": "10/4/2019",
+      "post_text": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "post_views": 7184,
+      "post_auther": "eelegood3",
+      "post_category": "potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum"
+    },
+    {
+      "id": 5,
+      "user_id": 45,
+      "post_title": "VNC",
+      "post_created_at": "8/20/2019",
+      "post_updated_at": "8/19/2019",
+      "post_text": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+      "post_views": 8761,
+      "post_auther": "spadbery4",
+      "post_category": "ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus"
+    }
+  ]
+  
