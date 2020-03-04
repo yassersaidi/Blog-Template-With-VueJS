@@ -1,5 +1,4 @@
-# mishkal
-
+# I Love Code
 ## Project setup
 ```
 yarn install
