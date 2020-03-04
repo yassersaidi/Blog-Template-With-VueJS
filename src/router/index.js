@@ -8,6 +8,8 @@ import Contact from "../views/pages/Contact.vue";
 import Profile from "../views/pages/Profile.vue";
 import SignIn from "../views/Auth/SignIn.vue";
 import SignUp from "../views/Auth/SignUp.vue";
+import EmailReset from "../views/Auth/EmailReset.vue";
+import ResetPass from "../views/Auth/ResetPassword.vue";
 import Search from "../views/pages/Search.vue";
 
 Vue.use(VueRouter);
@@ -16,8 +18,8 @@ const routes = [
   {
     path: "/",
     name: "home",
-    title: 'I Love Coding | Home',
-    component: Home,
+    title: "I Love Coding | Home",
+    component: Home
   },
   {
     path: "/about",
@@ -53,6 +55,16 @@ const routes = [
     path: "/sign_up",
     name: "sign_up",
     component: SignUp
+  },
+  {
+    path: "/reset_pass",
+    name: "reset_pass",
+    component: EmailReset
+  },
+  {
+    path: "/new_password",
+    name: "new_password",
+    component: ResetPass
   },
   {
     path: "/search",

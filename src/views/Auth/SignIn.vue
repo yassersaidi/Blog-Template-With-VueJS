@@ -1,13 +1,13 @@
 <template>
   <div class="sign-in pt-5 vh-100">
     <div class="overflow-back position-fixed h-100 w-100"></div>
-    <div class="container">
+    <b-container class="container">
       <b-card class="col-xs-12">
         <LoginHeader />
         <LoginForm />
         <LoginSocial />
       </b-card>
-    </div>
+    </b-container>
   </div>
 </template>
 <script>

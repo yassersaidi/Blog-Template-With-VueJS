@@ -32,7 +32,21 @@ export default {
     this.$router.beforeEach((to, from, next) => {
       this.$insProgress.start()
       next();
-    });
+    })
+    this.$router.afterEach((to, from) => {
+    this.$insProgress.finish()
+    /**
+     * This code is used to avoid vue errors in to and from var
+     */
+          if(to){
+            return true
+          }else{
+            if(from){
+              return false
+            }
+          }
+    /*End */
+  })
   }
 }
 </script>
